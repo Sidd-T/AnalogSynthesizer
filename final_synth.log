@@ -1,0 +1,47 @@
+Circuit: * C:\Users\hites\Downloads\Final Circuit\Final Circuit\LM13700-spice-model-master\everything_new_vca.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v19.  Increasing period to 0.002002
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v20.  Increasing period to 0.35002
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Wed Mar 19 17:25:31 2025
+Total elapsed time: 7.882 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 77389
+traniter = 77038
+tranpoints = 22067
+accept = 15910
+rejected = 6157
+matrix size = 147
+fillins = 56
+solver = Normal
+Avg thread counts: 3.0/1.0/1.0/1.0
+Matrix Compiler1: 11.00 KB object code size  8.8/4.5/[1.7]
+Matrix Compiler2: 14.66 KB object code size  4.6/4.9/[3.5]
+
